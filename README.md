@@ -21,7 +21,9 @@ In this project written in Swift I used:
 - Sketch 
 - and a couple more contributing components. For more info check out my TreatMe-Official- repository. 
 
+TreatMe Images:
 
+<img width="1000" alt="Screenshot 2021-10-19 102357" src="https://user-images.githubusercontent.com/79124628/137930228-6488e72e-a07d-4551-a898-c416ab0af03c.png">
 
 
 
