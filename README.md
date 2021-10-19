@@ -22,8 +22,6 @@ In this project written in Swift I used:
 - and a couple more contributing components. For more info check out my TreatMe-Official- repository. 
 
 
-Images of TreatMe:
-
 
 
 
