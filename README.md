@@ -1,4 +1,4 @@
-Developer Portfolio
+DEVELOPER PORTFOLIO
 
 ABOUT ME
 
