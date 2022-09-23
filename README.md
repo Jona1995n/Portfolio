@@ -6,14 +6,16 @@ Hey, my name is Jonathan Nunez. I live in Bronx, New York and I currently build 
 
 PROJECTS
 
-TreatMe: This is my first big project under my belt, other than other minor apps that I’ve created in the past in which I programmed just to practice certain fields of swift and/or reading/writing, etc to databases. This app focuses on making “everything medical” simpler for the user. From registering your appointment with the required information tailored to the medical facility, to reminders with notifications. For example: reminders for going on a jog on weekdays in the morning or for taking medications that you might need whether it be daily, weekly, or biweekly. TreatMe brings advantages not only to the patients but also to the medical facilities when it comes to administering their patients and their appointments. It knocks out a couple steps, handling scheduling appointments and gathering information for them. All that's left for the patient to do is show up. I focused highly on making the app as simple to use as possible. Not just for the patient but for the facilities as well. This project is still in the making, but I’ve decided to be transparent with my work. Therefore, every commit shows my progress day by day.
+TreatMe: This is my first big project under my belt, other than other minor apps that I’ve created in the past in which I programmed just to practice certain fields of swift and/or reading/writing, etc to databases. This app focuses on making “everything medical” simpler for the user. From registering your appointment with the required information tailored to the medical facility, to reminders with notifications. 
 
 In this project written in Swift I used:
 - Xcode
 - UIkit
+- Storyboards
 - Firebase
 - Log in system
 - User authentication/roles (Admin/ Basic user)
+- Notifications
 - Messaging system
 - CocoaPods
 - Clean code
@@ -24,21 +26,6 @@ In this project written in Swift I used:
 TreatMe Images:
 
 <img width="1000" alt="Screenshot 2021-10-19 102357" src="https://user-images.githubusercontent.com/79124628/137930228-6488e72e-a07d-4551-a898-c416ab0af03c.png">
-
-
-
-CODING CHALLENGES
-
-- Fizzbuzz
-- Two Number Sum
-- Validate Subsequence
-- Sorted Squared Array
-- Tournament winner (competitions of teams, return winning team)
-- Binary Search
-- Reverse LinkedList
-- Invert Binary Tree
-
-
 
 
 CONTACT INFO
