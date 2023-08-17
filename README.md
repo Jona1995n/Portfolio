@@ -24,6 +24,8 @@ Key Features:
 Technologies:
 - Xcode
 - UIkit
+- Swift
+- Python
 - Django
 - Firebase
 - User authentication/roles (Admin/ Basic user)
