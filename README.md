@@ -6,6 +6,10 @@ Hey, my name is Jonathan Nunez. I live in Bronx, New York and I currently build 
 
 PROJECT
 
+![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
+![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
+
+
 Agro: is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
 Key Features:
 
@@ -16,11 +20,6 @@ Key Features:
 * Instant Confirmations: Get instant notifications confirming your appointments, complete with all the necessary details. Stay on top of your schedule effortlessly.
 * Reminders and Alerts: Agro sends you timely reminders and alerts for upcoming appointments, ensuring you never miss an important date.
 * Ratings and Reviews: Access authentic ratings and reviews from other users to make informed decisions about service providers before booking.
-
-![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
-![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
-
-
 
 Technologies:
 - Xcode
