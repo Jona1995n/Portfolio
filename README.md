@@ -4,9 +4,9 @@ ABOUT ME
 
 Hey, my name is Jonathan Nunez. I live in Bronx, New York and I currently build IOS apps using swift. I knew that app/web development was my calling when I had to choose a minor degree to go with my business major in College in 2018. I chose to go with computer science and it has changed my life ever since. I was exposed to C# and learnt a bit of history behind the technology world and how it was shaped from the very beginning. Since then I've been fascinated and passionate about being an architect in the technology world that evolves day by day. I am evolving everyday and looking for ways to further develop my skills. 
 
-PROJECTS
+PROJECT
 
-Agro: Agro is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
+Agro: is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
 Key Features:
 
 * Effortless Appointment Scheduling: Agro offers a user-friendly interface that allows you to schedule appointments with just a few taps. No more waiting on hold or going through a cumbersome booking process.
