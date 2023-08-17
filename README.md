@@ -17,6 +17,10 @@ Key Features:
 * Reminders and Alerts: Agro sends you timely reminders and alerts for upcoming appointments, ensuring you never miss an important date.
 * Ratings and Reviews: Access authentic ratings and reviews from other users to make informed decisions about service providers before booking.
 
+![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
+![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
+
+
 
 Technologies:
 - Xcode
@@ -27,11 +31,6 @@ Technologies:
 - Notifications
 - Messaging system
 - CocoaPods
-
-Agro Images:
-
-<img width="1000" alt="Screenshot 2021-10-19 102357" src="https://user-images.githubusercontent.com/79124628/137930228-6488e72e-a07d-4551-a898-c416ab0af03c.png">
-
 
 CONTACT INFO
 
