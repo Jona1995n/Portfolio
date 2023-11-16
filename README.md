@@ -24,6 +24,7 @@ Key Features:
 Technologies:
 - Xcode
 - UIkit
+- MVVM
 - Swift
 - Python
 - Django
