@@ -21,7 +21,7 @@ Key Features:
 * Reminders and Alerts: Agro sends you timely reminders and alerts for upcoming appointments, ensuring you never miss an important date.
 * Ratings and Reviews: Access authentic ratings and reviews from other users to make informed decisions about service providers before booking.
 
-Technologies:
+TECHNOLOGIES:
 - Xcode
 - UIkit
 - MVVM
