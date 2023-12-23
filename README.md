@@ -4,7 +4,10 @@ ABOUT ME
 
 Hey, my name is Jonathan Nunez. I live in New York and I currently build IOS apps using swift. I knew that app/web development was my calling when I had to choose a minor degree to go with my business major in college in 2018. I chose to go with computer science and it has changed my life ever since. I was exposed to C# and learnt a bit of history behind technology and how it was shaped from the very beginning. Since then I've been fascinated and passionate about being an architect in the technology world that evolves day by day. I am evolving with it everyday and looking for ways to further develop my skills. 
 
-PROJECT
+PROJECTS
+
+<img width="1017" alt="Screenshot 2023-12-23 at 5 06 41 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/409cdc3e-848c-4c6b-a619-36adc19f28f9">
+
 
 ![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
 ![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
