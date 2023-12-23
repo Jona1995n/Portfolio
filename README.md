@@ -9,6 +9,8 @@ PROJECTS
 KiccBacc:
 <img width="1017" alt="Screenshot 2023-12-23 at 5 06 41 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/409cdc3e-848c-4c6b-a619-36adc19f28f9">
 
+
+
 KiccBacc is the ultimate social events destination for Gen Z.
 Create, share, and connect like never before. Plan unforgettable college events, share real-time experiences through event stories, find out who's attending, engage with replies and chats, and connect with peers by following them. Elevate your campus life and create the fun you've always imagined.
 
