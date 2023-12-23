@@ -6,14 +6,29 @@ Hey, my name is Jonathan Nunez. I live in New York and I currently build IOS app
 
 PROJECTS
 
+KiccBacc:
 <img width="1017" alt="Screenshot 2023-12-23 at 5 06 41 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/409cdc3e-848c-4c6b-a619-36adc19f28f9">
 
+KiccBacc is the ultimate social events destination for Gen Z.
+Create, share, and connect like never before. Plan unforgettable college events, share real-time experiences through event stories, find out who's attending, engage with replies and chats, and connect with peers by following them. Elevate your campus life and create the fun you've always imagined.
 
+TECHNOLOGIES:
+- Xcode
+- Swift
+- SwiftUI
+- MVVM
+- Firebase
+- User authentication
+- Notifications
+- Messaging system
+- CocoaPods
+
+Agro:
 ![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
 ![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
 
 
-Agro: is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
+Agro is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
 Key Features:
 
 * Effortless Appointment Scheduling: Agro offers a user-friendly interface that allows you to schedule appointments with just a few taps. No more waiting on hold or going through a cumbersome booking process.
