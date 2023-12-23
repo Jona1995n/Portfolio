@@ -7,6 +7,7 @@ Hey, my name is Jonathan Nunez. I live in New York and I currently build IOS app
 PROJECTS
 
 KiccBacc:
+
 <img width="1017" alt="Screenshot 2023-12-23 at 5 06 41 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/409cdc3e-848c-4c6b-a619-36adc19f28f9">
 
 KiccBacc is the ultimate social events destination for Gen Z.
@@ -28,6 +29,7 @@ TECHNOLOGIES:
   
 
 Agro:
+
 ![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
 ![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
 
