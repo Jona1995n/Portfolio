@@ -12,6 +12,7 @@ KiccBacc:
 
 KiccBacc is the ultimate social events destination for Gen Z.
 Over 2500 downloads, 600+ MAU, 60+ DAU and growing!
+
 Create, share, and connect like never before. Plan unforgettable college events, share real-time experiences through event stories, find out who's attending, engage with replies and chats, and connect with peers by following them. Elevate your campus life and create the fun you've always imagined.
 
 TECHNOLOGIES:
