@@ -17,7 +17,6 @@ TECHNOLOGIES:
 ![HiredHarborImg2](https://github.com/Jona1995n/Portfolio/assets/79124628/6078713d-ae7a-441a-a3e7-25c3fe6e1add)
 ![HiredHarborImg8](https://github.com/Jona1995n/Portfolio/assets/79124628/a7cdf801-670a-42be-9e48-7a7247ded5fb)
 ![HiredHarborImg4](https://github.com/Jona1995n/Portfolio/assets/79124628/d43cde47-1950-48e8-8665-1ef2893d7377)
-![HireHarborImg7](https://github.com/Jona1995n/Portfolio/assets/79124628/2e22b8bd-9348-4b29-9295-a7d0cc3c1a46)
 ![HiredHarborImg10](https://github.com/Jona1995n/Portfolio/assets/79124628/c65c3ffb-9efc-4ead-84bc-4ecdefe48250)
 
 Android version
