@@ -28,7 +28,7 @@ TECHNOLOGIES:
 
 Android version
 
-[<img width="498" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](google.com)
+[<img width="498" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](https://play.google.com/store/apps/details?id=com.jge.jobtrack&hl=en_US&gl=US)
 
 Agro:
 
