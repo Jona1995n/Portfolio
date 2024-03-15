@@ -6,31 +6,29 @@ Hey, my name is Jonathan Nunez. I live in New York and I currently build IOS app
 
 PROJECTS
 
-KiccBacc:
+Hired Harbor:
 
-<img width="1017" alt="Screenshot 2023-12-23 at 5 06 41 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/409cdc3e-848c-4c6b-a619-36adc19f28f9">
+![HiredHarborImg1](https://github.com/Jona1995n/Portfolio/assets/79124628/713d13c3-e18e-4930-86ef-3f317b6b2b4c)
+![HiredHarborImg2](https://github.com/Jona1995n/Portfolio/assets/79124628/6078713d-ae7a-441a-a3e7-25c3fe6e1add)
+![HiredHarborImg8](https://github.com/Jona1995n/Portfolio/assets/79124628/a7cdf801-670a-42be-9e48-7a7247ded5fb)
+![HiredHarborImg4](https://github.com/Jona1995n/Portfolio/assets/79124628/d43cde47-1950-48e8-8665-1ef2893d7377)
+![HireHarborImg7](https://github.com/Jona1995n/Portfolio/assets/79124628/2e22b8bd-9348-4b29-9295-a7d0cc3c1a46)
+![HiredHarborImg10](https://github.com/Jona1995n/Portfolio/assets/79124628/c65c3ffb-9efc-4ead-84bc-4ecdefe48250)
 
+🚀 Welcome to Hired Harbor- Your Ultimate Job Search Companion!
 
-https://apps.apple.com/us/app/kiccbacc/id1534204449?platform=iphone
-
-KiccBacc is the ultimate social events destination for Gen Z.
-Over 2500 downloads, 600+ MAU, 60+ DAU and growing!
-
-Create, share, and connect like never before. Plan unforgettable college events, share real-time experiences through event stories, find out who's attending, engage with replies and chats, and connect with peers by following them. Elevate your campus life and create the fun you've always imagined.
+Are you on the hunt for the perfect job? Hired Harbor is designed with job seekers like you in mind, making the job search and application process seamless and organized.
 
 TECHNOLOGIES:
-- Xcode
 - Swift
 - SwiftUI
+- SwiftData
 - MVVM
-- Firebase
-- User authentication
-- Notifications
-- Messaging system
-- CocoaPods
+- GoogleAds
 
+Android version
 
-  
+[<img width="498" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](google.com)
 
 Agro:
 
@@ -39,7 +37,7 @@ Agro:
 
 
 
-https://apps.apple.com/us/app/agro-llc/id1666372892?platform=iphone
+[![AppStore copy](https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067)](https://apps.apple.com/us/app/agro-llc/id1666372892?platform=iphone)
 
 
 
