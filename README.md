@@ -13,11 +13,10 @@ TECHNOLOGIES:
 - MVVM
 - GoogleAds
 
-![HiredHarborImg1](https://github.com/Jona1995n/Portfolio/assets/79124628/713d13c3-e18e-4930-86ef-3f317b6b2b4c)
-![HiredHarborImg2](https://github.com/Jona1995n/Portfolio/assets/79124628/6078713d-ae7a-441a-a3e7-25c3fe6e1add)
-![HiredHarborImg8](https://github.com/Jona1995n/Portfolio/assets/79124628/a7cdf801-670a-42be-9e48-7a7247ded5fb)
-![HiredHarborImg4](https://github.com/Jona1995n/Portfolio/assets/79124628/d43cde47-1950-48e8-8665-1ef2893d7377)
-![HiredHarborImg10](https://github.com/Jona1995n/Portfolio/assets/79124628/c65c3ffb-9efc-4ead-84bc-4ecdefe48250)
+<img width="250" alt="HH1" src="https://github.com/Jona1995n/Portfolio/assets/79124628/190b69b3-ce7d-45a3-bf6f-4f713d48dba7">
+<img width="250" alt="HH1_2" src="https://github.com/Jona1995n/Portfolio/assets/79124628/a114b631-7b84-44da-a6d7-3bf1b884451e"><img width="250" alt="HH2" src="https://github.com/Jona1995n/Portfolio/assets/79124628/b811b08a-e4a5-4ced-82ea-c38f1c7dfd87"><img width="250" alt="HH2_2" src="https://github.com/Jona1995n/Portfolio/assets/79124628/60a8ad67-2b8c-4567-b042-b2e75f724c9e">
+
+<img width="250" alt="HH3" src="https://github.com/Jona1995n/Portfolio/assets/79124628/ef318ca3-86d9-4f17-a77c-53dc8f500a04"><img width="250" alt="HH3_1" src="https://github.com/Jona1995n/Portfolio/assets/79124628/37e3e768-cd89-4389-8aaa-deb21056c1ef"><img width="250" alt="HH4_1" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2d43a116-1e29-46ea-be31-d859dbee231e"><img width="250" alt="HH4" src="https://github.com/Jona1995n/Portfolio/assets/79124628/202be27e-238d-474a-a690-de6f972cad99">
 
 Android version
 
