@@ -18,7 +18,7 @@ TECHNOLOGIES:
 
 <img width="200" alt="HH3" src="https://github.com/Jona1995n/Portfolio/assets/79124628/ef318ca3-86d9-4f17-a77c-53dc8f500a04"><img width="200" alt="HH3_1" src="https://github.com/Jona1995n/Portfolio/assets/79124628/37e3e768-cd89-4389-8aaa-deb21056c1ef"><img width="200" alt="HH4_1" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2d43a116-1e29-46ea-be31-d859dbee231e"><img width="200" alt="HH4" src="https://github.com/Jona1995n/Portfolio/assets/79124628/202be27e-238d-474a-a690-de6f972cad99">
 
-[<img width="400" alt="AppStore copy" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067">](https://apps.apple.com/us/app/hired-harbor/id6477761282)[<img width="469" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](https://play.google.com/store/apps/details?id=com.jge.jobtrack&hl=en_US&gl=US)
+[<img width="358" alt="AppStore copy" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067">](https://apps.apple.com/us/app/hired-harbor/id6477761282)[<img width="420" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](https://play.google.com/store/apps/details?id=com.jge.jobtrack&hl=en_US&gl=US)
 
 Agro:
 
