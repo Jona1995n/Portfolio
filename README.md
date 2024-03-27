@@ -41,11 +41,6 @@ TECHNOLOGIES:
 
 
 
-
-https://github.com/Jona1995n/Agro
-
-
-
 CONTACT INFO
 
 Jonathan Nunez
