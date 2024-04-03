@@ -25,6 +25,7 @@ TECHNOLOGIES:
 - Xcode
 - UIkit
 - Swift
+- MVVM
 - Python
 - Django
 - Firebase
