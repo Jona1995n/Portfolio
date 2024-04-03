@@ -32,9 +32,7 @@ TECHNOLOGIES:
 - Notifications
 - Real-time chat app
 
-![Screenshot 2023-08-17 at 2 37 05 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/d5d8ab41-3187-4715-ae30-7b28680ccda1)
-![Screenshot 2023-08-17 at 2 37 21 PM](https://github.com/Jona1995n/Portfolio/assets/79124628/da8397fd-fc93-4942-9d9d-d2b1e8672015)
-
+<img width="1305" alt="Screenshot 2024-04-03 at 3 36 42 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/d115820e-bb12-47c8-be70-42b7cf364cce">
 
 
 [![AppStore copy](https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067)](https://apps.apple.com/us/app/agro-llc/id1666372892?platform=iphone)
