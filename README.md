@@ -40,7 +40,6 @@ Agro is a cutting-edge iOS app designed to simplify your life by streamlining th
 ---
 
 TECHNOLOGIES:
-- Xcode
 - UIkit
 - Swift
 - MVVM
