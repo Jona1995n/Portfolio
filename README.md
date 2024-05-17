@@ -21,6 +21,7 @@ TECHNOLOGIES:
 - MVVM
 - GoogleAds
 - Async/Await
+- XCTest
 
 ---
 
