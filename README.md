@@ -29,7 +29,7 @@ TECHNOLOGIES:
 
 ---
 
-# Agro
+# 📚 Agro
 
 Agro is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
 
@@ -116,6 +116,28 @@ TECHNOLOGIES:
     "user": "Jona Punez"
 }
 ```
+---
+
+# ♟️ AgroChess
+
+Agrochess - Challenge Your Mind!
+Quick Play Options: Choose from various game durations, including 1-minute, 2-minute, 3-minute, 5-minute, 10-minute, and 20-minute matches to fit your schedule and skill level.
+
+---
+
+<img width="910" alt="Screenshot 2024-07-29 at 9 48 34 AM" src="https://github.com/user-attachments/assets/e8806221-2159-4814-85df-74c627527195">
+
+---
+
+TECHNOLOGIES:
+- Unity
+- C#
+- XCode
+  
+---
+
+[![AppStore copy](https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067)](https://apps.apple.com/us/app/agro-chess/id6541750926?platform=iphone)
+
 ---
 
 CONTACT INFO
