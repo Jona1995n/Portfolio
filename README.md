@@ -58,6 +58,7 @@ TECHNOLOGIES:
 ---
 
 ### Agro Backend Request methods
+I built Agro's backend using Django REST framework and Python.
 
 | Method   | URL                                      | Description                              |
 | -------- | ---------------------------------------- | ---------------------------------------- |
