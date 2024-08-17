@@ -47,6 +47,7 @@ TECHNOLOGIES:
 - Django
 - Firebase
 - GoogleMaps
+- GoogleAds
 - User authentication/roles (Admin/ Basic user)
 - Notifications
 - Real-time chat app
