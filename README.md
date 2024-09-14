@@ -25,7 +25,7 @@ TECHNOLOGIES:
 
 ---
 
-[<img width="358" alt="AppStore copy" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067">](https://apps.apple.com/us/app/hired-harbor/id6477761282)[<img width="420" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](https://play.google.com/store/apps/details?id=com.jge.jobtrack&hl=en_US&gl=US)
+[<img width="358" alt="AppStore copy" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2517ee73-9e66-44a8-a88a-d705cea77067">](https://apps.apple.com/us/app/hired-harbor/id6477761282?platform=iphone)[<img width="420" alt="Screenshot 2024-03-15 at 3 34 14 AM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/9ba1c982-1a8f-4aad-86ec-3cd89d322835">](https://play.google.com/store/apps/details?id=com.jge.jobtrack&hl=en_US&gl=US)
 
 ---
 
