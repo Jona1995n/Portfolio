@@ -10,7 +10,7 @@ Are you on the hunt for the perfect job? Hired Harbor is designed with job seeke
 
 ---
 
-<img width="962" alt="Screenshot 2024-03-18 at 6 54 44 PM" src="https://github.com/Jona1995n/Portfolio/assets/79124628/2fbfb972-3ce4-4c5d-b875-0af3862aaed8">
+![Screenshot_2024-09-14_13-40-41](https://github.com/user-attachments/assets/fd2dd0c2-0fe2-471d-b910-5a7f63639aa1)
 
 ---
 
@@ -18,6 +18,8 @@ TECHNOLOGIES:
 - Swift
 - SwiftUI
 - SwiftData
+- SwiftCharts
+- StoreKit2
 - MVVM
 - GoogleAds
 - Async/Await
