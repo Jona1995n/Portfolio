@@ -10,7 +10,7 @@ Are you on the hunt for the perfect job? Hired Harbor is designed with job seeke
 
 ---
 
-![Screenshot_2024-09-14_13-40-41](https://github.com/user-attachments/assets/fd2dd0c2-0fe2-471d-b910-5a7f63639aa1)
+<img width="990" alt="Screenshot 2024-09-16 at 7 28 08 PM" src="https://github.com/user-attachments/assets/f9679cc2-f5eb-4dbd-9bdd-d3c69496b0c1">
 
 ---
 
