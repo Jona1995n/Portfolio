@@ -31,7 +31,7 @@ TECHNOLOGIES:
 
 ---
 
-# 📚 Agro
+# 📚 Agro Booking
 
 Agro is a cutting-edge iOS app designed to simplify your life by streamlining the process of scheduling appointments for a wide range of services. Whether you need to book a haircut, a dental checkup, a massage, a car service, or any other service, Agro is here to ensure you never miss a beat.
 
