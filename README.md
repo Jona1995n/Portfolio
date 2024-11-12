@@ -45,14 +45,15 @@ TECHNOLOGIES:
 - UIkit
 - Swift
 - MVVM
+- Realm
 - Python
 - Django
 - Firebase
 - GoogleMaps
 - GoogleAds
 - User authentication/roles (Admin/ Basic user)
-- Notifications
-- Real-time chat app
+- APN Notifications
+- Real-time chat app (websockets)
 
 ---
 
