@@ -120,7 +120,7 @@ I built Agro's backend using Django REST framework and Python.
     "time": "1712025691",
     "stars": 5,
     "email": "jonathannunez@email-com",
-    "user": "Jona Punez"
+    "user": "Jona Nunez"
 }
 ```
 ---
