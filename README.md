@@ -153,6 +153,4 @@ Jonathan Nunez
 
 Email: Jonathannunez16@gmail.com
 
-Phone Number: (347) 698-3790
-
 Linkedin: www.linkedin.com/in/jonathan-nunez-
